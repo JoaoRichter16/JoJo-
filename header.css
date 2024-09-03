@@ -1,8 +1,8 @@
-.cabeçalho__menu-hamburguer {
+.cabeçalho__Menu.jpg {
     width: 24px;
     height: 24px;
     display: inline-block;
-    background-image: url(img/Menu.jpg)
+    background-image: url("../img/Menu.jpg");
     background-repeat: no-repeat;
     background-position: center;
 }
